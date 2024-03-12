@@ -243,21 +243,23 @@ br{
 
 
 span{
-    font-weight: bold;
-    color:  rgb(76, 145, 30);
+   
 }
 
 article{
     background-color: rgb(26, 165, 26);
     border-radius: 10px;
-    padding: 10px;
+    padding: 20px;
     max-width: 500px;
-    margin: auto;
+    
+    
     transition-duration: 500ms;
     border-style: dotted;
     border-width: 0px;
     color: rgb(240, 240, 240);
+    margin: 10px;
 }
+
 
 article h1{
     font-family: "Android", Arial, sans-serif;
