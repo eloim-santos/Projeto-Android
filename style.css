@@ -242,9 +242,7 @@ br{
 }
 
 
-span{
-   
-}
+
 
 article{
     background-color: rgb(26, 165, 26);
@@ -257,7 +255,7 @@ article{
     border-style: dotted;
     border-width: 0px;
     color: rgb(240, 240, 240);
-    margin: 10px;
+    margin: 15px;
 }
 
 
