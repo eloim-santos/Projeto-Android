@@ -36,15 +36,15 @@ body{
     text-decoration: none;
     color: white;
     font-weight: bold;
-    border-radius: 15px;
+    border-radius: 5px;
     -webkit-transition-duration: 500ms;
 }
 
 #topo_links > a:hover{
     background-color: green;
-    padding: 5px;
+    padding: 10px;
     
-    font-size: 125%;
+    font-size: 100%;
     -webkit-transition-duration: 500ms;
 }
 
@@ -108,7 +108,7 @@ abbr{
     text-decoration: none;
 }
 
-main>h2{
+main h2,h3{
     font-family: "Android", Arial, sans-serif;
     font-weight: normal;
     font-style: normal;
